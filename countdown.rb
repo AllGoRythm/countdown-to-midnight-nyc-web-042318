@@ -1,8 +1,5 @@
 #write your code here
-
-def LOOPS
-
-    def countdown
+def countdown
 
       numbers = 10
       while numbers < 10
@@ -12,4 +9,3 @@ def LOOPS
 
     end
 
-end
