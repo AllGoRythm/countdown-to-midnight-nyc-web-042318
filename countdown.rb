@@ -1,5 +1,5 @@
 #write your code here
-def countdown
+def LOOPS
 
       numbers = 10
       while numbers < 10
