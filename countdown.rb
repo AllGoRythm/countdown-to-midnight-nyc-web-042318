@@ -2,6 +2,10 @@
 
 def LOOPS
 
-    
+    def countdown
+
+      
+
+    end 
 
 end
