@@ -1,6 +1,4 @@
 #write your code here
-def LOOPS
-
 def countdown
       numbers = 10
       while numbers < 10
@@ -8,6 +6,4 @@ def countdown
         numbers -= 1
       end
       return "HAPPY NEW YEAR!"
-end
-
 end
